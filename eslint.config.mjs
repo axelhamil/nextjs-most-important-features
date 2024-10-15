@@ -68,6 +68,7 @@ export default [
   {
     rules: {
       "@typescript-eslint/no-empty-object-type": 0,
+      "@typescript-eslint/no-explicit-any": 0,
       "import/no-anonymous-default-export": 0,
       "prettier/prettier": [
         2,
