@@ -1,0 +1,15 @@
+.git
+.results
+scripts
+*Dockerfile*
+node_modules
+npm-debug.log
+Dockerfile
+docker-compose.yml
+compose.yml
+*.md
+*.log
+.vscode
+.idea
+.env
+.next
